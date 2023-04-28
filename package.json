@@ -4,7 +4,7 @@
   "description": "ChitChat WebApp",
   "main": "server.js",
   "scripts": {
-    "start": "node Backend/Server.js"
+    "start": "nodemon Backend/Server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/madhav-293/ChitChat#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
   }
 }
