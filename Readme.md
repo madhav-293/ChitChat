@@ -1,4 +1,4 @@
-#ChitChat WebApp
+ChitChat WebApp
 
 
 # Getting Started with Create React App
